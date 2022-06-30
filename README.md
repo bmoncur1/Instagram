@@ -6,7 +6,6 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 Time spent: **7** hours spent in total
 
 ## User Stories
-![ezgif com-gif-maker (54)](https://user-images.githubusercontent.com/73797804/176781960-61601196-8256-4085-a2a1-ecd2f7471367.gif)
 The following **required** functionality is completed:
 
 - [ x] User stays logged in across restarts. (1pt)
